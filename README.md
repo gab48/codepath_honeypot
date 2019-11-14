@@ -25,4 +25,5 @@ I have no attack reports for the 2 agave and I still not understand why.
 
 ## Summary of attacks
 Dionaea: 2.591.478 attacks, 12 malware samples.
+Agave: ~104 attacks.
 
